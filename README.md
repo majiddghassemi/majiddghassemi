@@ -1,4 +1,4 @@
-[![majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majiddghassemi&show_icons=true&show_icons=true&theme=gruvbox)](https://github.com/majiddghassemi/github-readme-stats)
+[![majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidghassemi&show_icons=true&show_icons=true&theme=gruvbox)](https://github.com/majidghassemi/github-readme-stats)
  
 ### Keep in touch with me via    
    
